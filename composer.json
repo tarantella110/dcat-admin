@@ -1,14 +1,14 @@
 {
-    "name": "dcat/laravel-admin",
-    "description": "dcat admin",
+    "name": "tarantella110/laravel-admin",
+    "description": "tarantella110 admin",
     "type": "library",
-    "keywords": ["dcat", "laravel", "admin", "grid", "form", "laravel admin"],
-    "homepage": "https://github.com/jqhph/dcat-admin",
+    "keywords": ["tarantella110", "laravel", "admin", "grid", "form", "laravel admin"],
+    "homepage": "https://github.com/tarantella110/dcat-admin",
     "license": "MIT",
     "authors": [
         {
-            "name": "jqh",
-            "email": "841324345@qq.com"
+            "name": "tarantella110",
+            "email": "beiker110@126.com"
         }
     ],
     "require": {
